@@ -1,3 +1,5 @@
+![reverse text generator image.png](..%2F..%2FOneDrive%2FDesktop%2Freverse%20text%20generator%20image.png)
+
 # Reverse Text Generator
 
 The Reverse Text Generator is a simple GUI application, built with Python and the Tkinter library, that reverses the words provided by the user. It provides an easy-to-use interface with a space to enter the text, a display for the reversed output, and buttons to reverse the text and copy the output to the clipboard.
