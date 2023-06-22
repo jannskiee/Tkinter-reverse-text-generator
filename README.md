@@ -1,4 +1,4 @@
-![reverse text generator image.png](..%2F..%2FOneDrive%2FDesktop%2Freverse%20text%20generator%20image.png)
+![reverse text generator image.png](reverse%20text%20generator%20image.png)
 
 # Reverse Text Generator
 
